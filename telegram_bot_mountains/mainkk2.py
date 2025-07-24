@@ -14,7 +14,6 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder # Импортируем InlineKeyboardBuilder для удобства
 from database.postgres_VR2 import Database 
 from dotenv import load_dotenv
-import qrcode
 import hashlib
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery
 from aiogram import F
