@@ -13,3 +13,4 @@
 git clone https://github.com/your-username/vershiny-rossii-bot.git
 cd vershiny-rossii-bot
 pip install -r requirements.txt
+python main.py
