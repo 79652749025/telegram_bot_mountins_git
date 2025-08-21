@@ -1105,3 +1105,4 @@ if __name__ == "__main__":
         logger.info("Приложение завершило работу корректно.")
     except Exception as e:
         logger.critical(f"Критическая ошибка вне цикла polling: {e}")
+
